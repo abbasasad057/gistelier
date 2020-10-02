@@ -1,0 +1,11 @@
+#appBar .dense{
+    height: 30px;
+    min-height: 30px;
+    padding: 0px;
+}
+#appBar .toolbarbutton{
+    width: 7.105rem;
+}
+#appBar .gray{
+  background-color: #E0E0E3;
+}

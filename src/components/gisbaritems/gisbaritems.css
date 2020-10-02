@@ -1,0 +1,26 @@
+#gisbaritems .icongroup{
+    border-right: 0.2em dotted #919191;
+    display: inline-block;
+    margin-left: 0.2em;
+    height: max-content;
+ }
+.icongroup .icon{
+    padding: 0.1em;
+    margin: 0 0.25em;
+}
+.icon:hover{
+    outline: 1px solid grey;
+}
+.openFile {
+    content:url("../../icons/24x24/open-trad.png");
+ }
+
+ .saveFile {
+    content:url("../../icons/24x24/save-trad.png");
+ }
+ .saveAsFile {
+    content:url("../../icons/24x24/save-as-trad.png");
+ }
+ .newProject{
+     content:url("../../icons/24x24/create.png")
+ }
