@@ -1,12 +1,11 @@
 #gisbaritems .icongroup{
     border-right: 0.2em dotted #919191;
     display: inline-block;
-    margin-left: 0.2em;
     height: max-content;
  }
 .icongroup .icon{
     padding: 0.1em;
-    margin: 0 0.25em;
+    margin: 0 0.62em;
 }
 .icon:hover{
     outline: 1px solid grey;
@@ -24,3 +23,84 @@
  .newProject{
      content:url("../../icons/24x24/create.png")
  }
+ .zoomIn{
+    content:url("../../icons/24x24/zoom-in.png")
+}
+.zoomOut{
+    content:url("../../icons/24x24/zoom-out.png")
+}
+.zoomLayer{
+    content:url("../../icons/24x24/zoom-layer.png")
+}
+.zoomSelection{
+    content:url("../../icons/24x24/zoom-selection.png")
+}
+.zoomRegion{
+    content:url("../../icons/24x24/zoom-region.png")
+}
+.zoomExtent{
+    content:url("../../icons/24x24/zoom-extent.png")
+}
+.zoomNext{
+    content:url("../../icons/24x24/zoom-next.png")
+}
+.zoomLast{
+    content:url("../../icons/24x24/zoom-last.png")
+}
+.pan{
+    content:url("../../icons/24x24/pan.png")
+}
+.addBookmark{
+    content: url("../../icons/24x24/add-bookmark.png");
+}
+.showBookmark{
+    content: url("../../icons/24x24/show-bookmark.png")
+}
+.redraw{
+    content:url("../../icons/24x24/redraw.png");
+}
+.undo{
+    content: url("../../icons/24x24/undo.png");
+}
+.redo{
+    content: url("../../icons/24x24/redo.png");
+}
+.measure{
+    content: url("../../icons/24x24/measure.png");
+}
+.select{
+    content: url("../../icons/24x24/select.png");
+}
+.unselect{
+    content: url("../../icons/24x24/unselect.png");
+}
+.deleteSelected{
+    content: url("../../icons/24x24/selected-delete.png");
+}
+.selectionInvert{
+    content: url("../../icons/24x24/selection-invert.png");
+}
+.table{
+    content: url("../../icons/24x24/table.png");
+}
+.calculator{
+    content: url("../../icons/24x24/calculator.png");
+}
+.tools{
+    content: url("../../icons/24x24/tools.png");
+}
+.python{
+    content:url("../../icons/24x24/python.png")
+}
+.print{
+    content: url("../../icons/24x24/print.png");
+}
+.help{
+    content: url("../../icons/24x24/help.png");
+}
+.modelBuilder{
+    content: url("../../icons/24x24/modeler-main.png");
+}
+.settings{
+    content: url("../../icons/24x24/settings.png");
+}

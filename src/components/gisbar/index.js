@@ -14,13 +14,7 @@ class GISBar extends Component{
         <AppBarItems/>
       </Toolbar>
       <Divider/>
-      <Toolbar className='dense gray'>
-        <GISBarItems/>
-      </Toolbar>
-      <Divider/>
-      <Toolbar className='dense gray'>
-        <GISBarItems/>
-      </Toolbar>
+      <GISBarItems/>  
       <Divider/>
       </AppBar>
     )
