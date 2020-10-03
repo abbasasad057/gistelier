@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gistelier/precache-manifest.ca2440a04b35bff8d9e63b68666c987f.js"
+  "/gistelier/precache-manifest.e3e80efc1e63c4e5a8a2a51e8e04a9e9.js"
 );
 
 self.addEventListener('message', (event) => {
