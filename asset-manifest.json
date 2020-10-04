@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gistelier/static/css/main.6ad286cf.chunk.css",
+    "main.css": "/gistelier/static/css/main.928a6b14.chunk.css",
     "main.js": "/gistelier/static/js/main.9b000259.chunk.js",
     "main.js.map": "/gistelier/static/js/main.9b000259.chunk.js.map",
     "runtime-main.js": "/gistelier/static/js/runtime-main.a93569e7.js",
@@ -8,15 +8,15 @@
     "static/js/2.9e33e7b7.chunk.js": "/gistelier/static/js/2.9e33e7b7.chunk.js",
     "static/js/2.9e33e7b7.chunk.js.map": "/gistelier/static/js/2.9e33e7b7.chunk.js.map",
     "index.html": "/gistelier/index.html",
-    "precache-manifest.e3e80efc1e63c4e5a8a2a51e8e04a9e9.js": "/gistelier/precache-manifest.e3e80efc1e63c4e5a8a2a51e8e04a9e9.js",
+    "precache-manifest.728f6ca523a1b02bb23295d58badc791.js": "/gistelier/precache-manifest.728f6ca523a1b02bb23295d58badc791.js",
     "service-worker.js": "/gistelier/service-worker.js",
-    "static/css/main.6ad286cf.chunk.css.map": "/gistelier/static/css/main.6ad286cf.chunk.css.map",
+    "static/css/main.928a6b14.chunk.css.map": "/gistelier/static/css/main.928a6b14.chunk.css.map",
     "static/js/2.9e33e7b7.chunk.js.LICENSE.txt": "/gistelier/static/js/2.9e33e7b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a93569e7.js",
     "static/js/2.9e33e7b7.chunk.js",
-    "static/css/main.6ad286cf.chunk.css",
+    "static/css/main.928a6b14.chunk.css",
     "static/js/main.9b000259.chunk.js"
   ]
 }

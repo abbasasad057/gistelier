@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fda8bd0bdca36824fde9603ff87a87cd",
+    "revision": "ebb9063504d6349b2616ed5794e5a43a",
     "url": "/gistelier/index.html"
   },
   {
-    "revision": "c170bd399d8f98c9ee2e",
-    "url": "/gistelier/static/css/main.6ad286cf.chunk.css"
+    "revision": "20cffeb10e52fa20c2d5",
+    "url": "/gistelier/static/css/main.928a6b14.chunk.css"
   },
   {
     "revision": "9d70fbc433d5d9863312",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gistelier/static/js/2.9e33e7b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c170bd399d8f98c9ee2e",
+    "revision": "20cffeb10e52fa20c2d5",
     "url": "/gistelier/static/js/main.9b000259.chunk.js"
   },
   {
