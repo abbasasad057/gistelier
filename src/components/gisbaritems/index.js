@@ -55,6 +55,24 @@ class GISBarItems extends Component{
                 </Toolbar>
                 <Divider/>
                 <Toolbar className='dense gray'>
+                <div className='icongroup'>
+                        <ButtonBase className="layerDb  icon"/>
+                        <ButtonBase className="layerDbAdd icon"/>
+                        <ButtonBase className="layerDbCreate icon"/>
+                        <ButtonBase className="createQueryLayer icon"/>
+                        <ButtonBase className="layerDbExport icon"/>
+                        <ButtonBase className="layerDbImport icon"/>
+                </div>
+                <div className='icongroup'>
+                        <ButtonBase className="layerAdd  icon"/>
+                        <ButtonBase className="layerCreate icon"/>
+                        <ButtonBase className="layerEdit icon"/>
+                        <ButtonBase className="layerExport icon"/>
+                        <ButtonBase className="layerImport icon"/>
+                        <ButtonBase className="layerRemove icon"/>
+                        <ButtonBase className="layerOpacityIncrease icon"/>
+                        <ButtonBase className="layerOpacityDecrease icon"/>
+                </div>
                 </Toolbar>
             </div>
         )

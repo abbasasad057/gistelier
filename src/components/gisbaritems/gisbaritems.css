@@ -5,7 +5,7 @@
  }
 .icongroup .icon{
     padding: 0.1em;
-    margin: 0 0.62em;
+    margin: 0 0.5em;
 }
 .icon:hover{
     outline: 1px solid grey;
@@ -103,4 +103,46 @@
 }
 .settings{
     content: url("../../icons/24x24/settings.png");
+}
+.layerDb{
+    content: url("../../icons/24x24/layer-db.png");
+}
+.layerDbAdd{
+    content: url("../../icons/24x24/layer-db-add.png");
+}
+.layerDbCreate{
+    content: url("../../icons/24x24/layer-db-sql-create.png");
+}
+.createQueryLayer{
+    content: url("../../icons/24x24/layer-db-sql-add.png");
+}
+.layerDbExport{
+    content: url("../../icons/24x24/layer-db-sql-export.png");
+}
+.layerDbImport{
+    content: url("../../icons/24x24/layer-db-sql-import.png");
+}
+.layerAdd{
+    content: url("../../icons/24x24/layer-add.png");
+}
+.layerCreate{
+    content: url("../../icons/24x24/layer-create.png");
+}
+.layerEdit{
+    content: url("../../icons/24x24/layer-edit.png");
+}
+.layerExport{
+    content: url("../../icons/24x24/layer-export.png");
+}
+.layerImport{
+    content: url("../../icons/24x24/layer-import.png");
+}
+.layerRemove{
+    content: url("../../icons/24x24/layer-remove.png");
+}
+.layerOpacityDecrease{
+    content: url("../../icons/24x24/layer-opacity-decrease.png");
+}
+.layerOpacityIncrease{
+    content: url("../../icons/24x24/layer-opacity-increase.png");
 }
